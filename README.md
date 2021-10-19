@@ -1,4 +1,4 @@
-## REST API with `gin` framework
+## Web application using `gin` framework
 
 ```bash
 go get -u github.com/gin-gonic/gin
